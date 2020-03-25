@@ -1,0 +1,18 @@
+# IDE
+.vscode/*
+
+# JetBrains
+.idea
+.project
+.settings
+*.iml
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+**/.DS_Store
+
+node_modules
